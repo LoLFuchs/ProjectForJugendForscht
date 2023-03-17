@@ -1,0 +1,28 @@
+Idee: 
+
+Virtuelles Hausaufgabenheft mit Kalender 
+
+Schüler Lehrer Karten 
+
+
+Material:
+2 Knöpfe zum auswählen des tages / woche / monat 
+1 NFC Leser zu erfassen des Tags 
+1 Rasberry Pi als System.py (oder anderes betriebssystem)
+1 SQLite Datenbank ( vorher Laptop) als " Datenbank" 
+n Karten für Lehrer/ Schüler
+
+17.03: 
+
+-> Muss SQL lernen um Datenbank zu erstellen und zu verstehen um weiter zu arbeiten (sebsteinschätzung: "Schaffe ich locker")
+-> Muss mich noch mit dem Rasberry pi auseinander setzen aka. noch einen kaufen 
+-> *nach einem Design suchen 
+-> *letzten Stück des Codes noch mit SQLite verbinden 
+
+Fragen: 
+- Founktioniert die Verbindung zwischen SQLite und Phyton einfach wie SQL oder gibt es da unterschiede? 
+- wie füge ich meine daten ordentlich von Phyton in die SQLite Datenbank ein und lese die dann wieder 
+- Was heißt Primary Key in SQLite
+
+
+* = Langfriestig 
