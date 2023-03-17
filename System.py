@@ -20,3 +20,4 @@ def Trigger(Rolle, KL, value):
     
 #Trigger(Input, "Hausaufgaben") # Triggern der Founktion // Entweder auf der NFC Card speichern / oder im System.py ausfühern
 
+#Idee: Punkte System ( Erledigte Hausaufgaben) / Hausaufgaben + Kalender
