@@ -1,4 +1,9 @@
-#Dies dient nur für die Datenbank vorauf später das System.py zugreifen wird um Daten zu lesen / schreiben
+
+
+Schueler = {}
+NameSchule = "Albert-Einstein-Gymnasium"
+
+
 
 K5A = []
 K5B = []
@@ -27,3 +32,4 @@ K10C = []
 K11A = []
 K11B = []
 K11C = []
+
