@@ -1,10 +1,9 @@
-# Dies stellt nur die Karte des Lehres / Schülers dar worauf nur die daten gespeichert werden
-
+# Beispielaufruf
 import System
 
-Name = "Andreas Müller"
-Rolle = "Lehrer"
-KL = "K8A" # KS = Klasse Schüler
-Ha = "Hausaufgaben"
-
-System.Trigger(Rolle, KL, Ha)
+if __name__ == '__main__':
+    name = "Max Mustermann"
+    role = "Lehrer"
+    klasse = "K8A"
+    ha = "Mathe"
+    System.Trigger(role, klasse, ha)
