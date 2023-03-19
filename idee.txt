@@ -1,9 +1,21 @@
 Idee: 
 
-Virtuelles Hausaufgabenheft mit Kalender 
+-> Virtuelles Hausaufgabenheft mit Kalender <- 
 
-Schüler Lehrer Karten 
+-> Schüler Lehrer Karten 
+-> Lehrer soll Hausaufgaben hinzufügen und einsehen können wie viele Schüler es gemacht haben
 
+Erweiterungen: 
+
+Bei Einloggen mit Karte: "Guten Tag: Es ist {Uhrzeit, datum etc.}" 
+--- Hausaufgaben der Klasse --- 
+
+links klick mit button: Deine Punkte 
+Rechts click hausaufgaben erledigt ankreuzen menu: (bei mehrern hausaufgaben mit knopfdruck weiter schalten, mit Karten scann bestätigen)
+Karte aus dem Ursprungsmenu ein 2 mal scannen = Ausloggen 
+Menu Steuerung mit variable: Menu = 1 (1 Menu) 
+                            Rechts click = (Menu +1)
+                            links click  = menu -1
 
 Material:
 2 Knöpfe zum auswählen des tages / woche / monat 
@@ -18,11 +30,37 @@ n Karten für Lehrer/ Schüler
 -> Muss mich noch mit dem Rasberry pi auseinander setzen aka. noch einen kaufen 
 -> *nach einem Design suchen 
 -> *letzten Stück des Codes noch mit SQLite verbinden 
+-> Programm für SQL???
 
 Fragen: 
 - Founktioniert die Verbindung zwischen SQLite und Phyton einfach wie SQL oder gibt es da unterschiede? 
 - wie füge ich meine daten ordentlich von Phyton in die SQLite Datenbank ein und lese die dann wieder 
 - Was heißt Primary Key in SQLite
+-> Brauche extra Pogramm für SQL?
+
+
+19.03: 
+
+-> Datenbank Founktioniert endlich daten können mit den Karten eingetragen werden
+-> Daten können von Lehrern eingetragen werden und von Schülern ausgelesen werden
+-> SQLite Fortschritt: "dürfte reichen um damit zu Arbeiten" (Mimo%: 7%)
+-> Arbeite nun weiter an Datenbank Tabellen für jede Klasse'
+
+MORGEN: 
+
+-> Menu system anfangen* 
+-> Lehrer Auswahl der Klassen überlegen 
+-> weiter SQL lernen° ("Mein Können durfte ausreichen um das Pogramm zu schreiben")
+
+
+
 
 
 * = Langfriestig 
+! = wichtig 
+!! = sehr wichtig
+° = unwichtig 
+
+
+
+V. 0.1.10
