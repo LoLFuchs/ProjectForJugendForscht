@@ -3,10 +3,11 @@
 import System
 
 if __name__ == '__main__':
-    name = "Max Mustermann"
+    name = "Leon Entoch"
     role = "Schueler"
     klasse = "K8A"
     ha = None
-    System.add_schueler(name)
+    System.add_schueler(name, klasse)
     System.Trigger(role, klasse, ha)
+
 
