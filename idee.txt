@@ -64,7 +64,7 @@ Fragen:
 
 04.04.22: 
 -> Speicherung und löschung von Temporären Daten, damit system user sich merkt, bzw ausloggt 
-
+-> Now possible to swipe between the menus, but need buttons to direct 
 
 
 
