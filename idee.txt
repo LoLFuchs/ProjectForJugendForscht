@@ -46,12 +46,24 @@ Fragen:
 -> SQLite Fortschritt: "dürfte reichen um damit zu Arbeiten" (Mimo%: 7%)
 -> Arbeite nun weiter an Datenbank Tabellen für jede Klasse'
 
-MORGEN: 
+20.03: 
 
--> Menu system anfangen* 
+-> Menu system anfange* 
 -> Lehrer Auswahl der Klassen überlegen 
 -> weiter SQL lernen° ("Mein Können durfte ausreichen um das Pogramm zu schreiben")
+-> Bug fixen (Speichern der Variablen zum übergehen in das nächste Menu)
 
+
+21 / 22.03
+
+-> Pause eingelegt wegen Schulischer Arbeiten
+-> Partnerschaft mit "Data Expert" in planung
+
+22.03 - 04.04.22 
+-> Pause / Phyton weiterlernen 
+
+04.04.22: 
+-> Speicherung und löschung von Temporären Daten, damit system user sich merkt, bzw ausloggt 
 
 
 
@@ -62,5 +74,4 @@ MORGEN:
 ° = unwichtig 
 
 
-
-V. 0.1.10
+V. 0.1.13
