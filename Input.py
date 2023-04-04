@@ -6,4 +6,4 @@ if __name__ == '__main__':
     role = "Lehrer"
     klasse = "K8A"
     ha = "Deutsch"
-    System.Trigger(role, klasse, ha)
+    System.Trigger(name, role, klasse, ha)
