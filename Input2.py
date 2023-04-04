@@ -1,6 +1,7 @@
 # Beispielaufruf
 # Könnte passieren das der Trigger im System ausgeführt werden muss
 import System
+import time
 
 if __name__ == '__main__':
     name = "Leon Entoch"
@@ -8,6 +9,7 @@ if __name__ == '__main__':
     klasse = "K8A"
     ha = None
     System.add_schueler(name, klasse)
-    System.Trigger(role, klasse, ha)
-
+    System.Trigger(name ,role, klasse, ha)
+    time.sleep(2)
+    System.LeftClick()
 
